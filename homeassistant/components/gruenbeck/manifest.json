@@ -1,0 +1,13 @@
+{
+  "domain": "gruenbeck",
+  "name": "Gruenbeck Water softener local",
+  "codeowners": ["@hass-tiziano"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/gruenbeck",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
